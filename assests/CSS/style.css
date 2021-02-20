@@ -43,19 +43,19 @@
 .PE-box{
     
     grid-area: "PE-box";
-    margin-left: 800px;
+    
 
 }
 .taskapp-box{
    
     grid-area: "taskapp-box";
-    margin-right: 800px;
+    
     
 }
 .gov-box{
    
     grid-area: "gov-box";
-    margin-right: 800px
+    
     ;
 
 }
